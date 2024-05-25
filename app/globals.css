@@ -7,6 +7,9 @@
     .clip_path {
         clip-path: polygon(50% 0%, 99% 0, 100% 79%, 50% 96%, 0 78%, 0 0);
     }
+    .heading {
+        @apply text-[30px] md:text-[35] lg:text-[45] xl:text-[50] uppercase font-bold text-gray-900 leading-[3rem] md:leading-[4rem] text-center
+    }
 }
 
 

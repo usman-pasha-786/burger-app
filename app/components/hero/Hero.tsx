@@ -43,7 +43,7 @@ const Hero = () => {
         <div className='w-[100%] h-[88vh] flex items-center justify-center flex-col bg-blue-950 md:clip_path'>
             <div className='w-[80%] grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-[2rem] mx-auto'>
                 {/* 1st image */}
-                <Image src={Burger1} alt='burger image' className='hidden md:block'/>
+                <Image src={Burger1} alt='burger image'  className='hidden md:block'/>
                 {/* information */}
                 <div>
                     <h1 className='text-[40px] font-semibold text-yellow-400'>Fast Food Burger</h1>

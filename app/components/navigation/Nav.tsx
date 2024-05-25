@@ -10,7 +10,7 @@ interface iprops{
 
 const Nav = ({openNav}:iprops) => {
   return (
-    <div className='h-[12vh] bg-blue-400'>
+    <div className='h-[12vh] bg-white'>
       <div className='sm:w-[90%] w-[95%] mx-auto flex h-[100%] items-center justify-between'>
         
         {/* logo */}
