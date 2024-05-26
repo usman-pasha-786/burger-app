@@ -27,7 +27,7 @@ const Feature = () => {
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus officiis reiciendis quidem nam quia vero, neque dignissimos laudantium velit exercitationem.</p>
                     </div>
                 </div>
-                {/* 3rd Card */}
+                {/* 2nd Card */}
                 <div>
                     <div className='p-6 hover:bg-white rounded-lg transition-all duration-200'>
                         <Image src={image3} alt='burger image' className='rounded-3xl' />
@@ -39,7 +39,7 @@ const Feature = () => {
                     </div>
                 </div>
 
-                {/* 2nd Card */}
+                {/* 3rd Card */}
                 <div>
                     <div className='p-6 hover:bg-white rounded-lg transition-all duration-200'>
                         <Image src={image2} alt='burger image' className='rounded-3xl' />
