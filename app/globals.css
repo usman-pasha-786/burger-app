@@ -12,6 +12,19 @@
     }
 }
 
+/* in Reservation section i need to change calendar and time icon colour change from black to white */
+
+input[type="date"]::-webkit-calendar-picker-indicator{
+    filter: invert(1);
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator{
+    filter: invert(1);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator::after{
+    filter: invert(1);
+}
 
 
 

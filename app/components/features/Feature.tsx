@@ -44,7 +44,7 @@ const Feature = () => {
                     <div className='p-6 hover:bg-white rounded-lg transition-all duration-200'>
                         <Image src={image2} alt='burger image' className='rounded-3xl' />
                         <h1 className='mt-[1.5rem] text-center text-[24px] text-black font-semibold'>
-                            Your Openion is Important
+                            Your Opinion is Important
                         </h1>
                         <p className='mt-[0.2rem] text-black text-center text-opacity-60'>
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus officiis reiciendis quidem nam quia vero, neque dignissimos laudantium velit exercitationem.</p>
